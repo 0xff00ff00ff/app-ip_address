@@ -1,0 +1,22 @@
+{
+  "name": "@acme/app-ip_address",
+  "version": "0.1.0",
+  "description": "ip mgmt function",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xff00ff00ff/app-ip_address.git"
+  },
+  "author": "ACME",
+  "license": "SEE LICENCE IN LICENCE.md",
+  "bugs": {
+    "url": "https://github.com/0xff00ff00ff/app-ip_address/issues"
+  },
+  "homepage": "https://github.com/0xff00ff00ff/app-ip_address#readme",
+  "dependencies": {
+    "ip-cidr": "^2.1.4"
+  }
+}
